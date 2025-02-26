@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Tabish Shamim</h1>
-<h3 align="center">A passionate mobile application developer</h3>
+<h3 align="center">A passionate mobile application developer and machine learning engineer</h3>
 
 
 <p align="left">
